@@ -1,0 +1,56 @@
+Nombre: Ernesto/nApellidos: Fonseca/nEdad: 21/nNumero: 961-128-6021/nGenero: /n/n/nNombre: er/nApellidos: as/nEdad: ada/nNumero: adsa/nGenero: /n/n/nNombre: asd/nApellidos: asda/nEdad: asda/nNumero: dasd/nGenero: /n/n/nNombre: asd/nApellidos: asd/nEdad: asd/nNumero: ads/nGenero: /n/n/nNombre: asd/nApellidos: asd/nEdad: asd/nNumero: asda/nGenero: /n/n/nNombre: asda/nApellidos: asda/nEdad: asda/nNumero: asda/nGenero: /n/n/nNombre: <xz
+Apellidos: <zx
+Edad: <zx<
+Numero: <xz<
+Genero: 
+
+
+Nombre: asd
+Apellidos: asd
+Edad: asd
+Numero: das
+Genero: 2
+
+
+Nombre: asd
+Apellidos: asd
+Edad: asd
+Numero: asd
+Genero: 
+
+
+Nombre: asda
+Apellidos: asd
+Edad: asda
+Numero: asda
+Genero: 
+
+
+Nombre: dasda
+Apellidos: asdas
+Edad: dasda
+Numero: 
+Genero: 
+
+
+Nombre: dasda
+Apellidos: asdas
+Edad: dasda
+Numero: asdas
+Genero: 
+
+
+Nombre: asd
+Apellidos: asda
+Edad: asda
+Numero: asdas
+Genero:  
+
+
+Nombre: asda
+Apellidos: asda
+Edad: asda
+Numero: asda
+Genero: Otro
+
+
